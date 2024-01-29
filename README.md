@@ -1,6 +1,6 @@
 ### Greetings
 
-A practicing DevOps engineer here, specialising in automation across cloud based server configurations. You can check my tech stack below:
+I do stuff
 <br />&nbsp;<br />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src ="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
